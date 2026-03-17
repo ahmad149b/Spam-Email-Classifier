@@ -8,4 +8,4 @@ matplotlib
 pymongo[srv]
 python-dotenv
 nltk
-sklearn
+scikit-learn
